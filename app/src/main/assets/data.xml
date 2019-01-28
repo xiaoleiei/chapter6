@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<messages>
+    <message> <!--元素  即 对象 -->
+        <title>视频1</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/tdy_pop_klg_whoknew_190123_722943627.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media13.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_whoknew_190123.860;484;7;70;5.jpg</img_url>
+        <info>i'm the info text 1</info>
+    </message>
+    <message> <!--元素  即 对象 -->
+        <title>视频2</title>
+        <video_url>https://snappytvpoc-vh.akamaihd.net/i/media/video/NBC_News/286/995/15482576,79689_tdy_pop_klg_surprise_190123_6,80989_tdy_pop_klg_surprise_190123_5,80562_tdy_pop_klg_surprise_190123_4,78912_tdy_pop_klg_surprise_190123_3,79273_tdy_pop_klg_surprise_190123_2,80169_tdy_pop_klg_surprise_190123_1,.mp4.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_health_klg_burnout_190123_1920x1080.focal-320x160.jpg</img_url>
+        <info>i'm the info text 2</info>
+    </message>
+    <message>
+        <title>视频3</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/x_tdy_ov_pop_flashback_tomeverrettscott_190118_722889237.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media12.s-nbcnews.com/j/MSNBC/Components/Video/201901/1920_1080_thatthingsyoudojpg.760;428;7;70;5.jpg</img_url>
+        <info>i'm the info text 3</info>
+    </message>
+    <message> <!--元素  即 对象 -->
+        <title>视频1</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/tdy_pop_klg_whoknew_190123_722943627.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media13.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_whoknew_190123.860;484;7;70;5.jpg</img_url>
+        <info>i'm the info text 1</info>
+    </message>
+    <message> <!--元素  即 对象 -->
+        <title>视频2</title>
+        <video_url>https://snappytvpoc-vh.akamaihd.net/i/media/video/NBC_News/286/995/15482576,79689_tdy_pop_klg_surprise_190123_6,80989_tdy_pop_klg_surprise_190123_5,80562_tdy_pop_klg_surprise_190123_4,78912_tdy_pop_klg_surprise_190123_3,79273_tdy_pop_klg_surprise_190123_2,80169_tdy_pop_klg_surprise_190123_1,.mp4.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_health_klg_burnout_190123_1920x1080.focal-320x160.jpg</img_url>
+        <info>i'm the info text 2</info>
+    </message>
+    <message>
+        <title>视频3</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/x_tdy_ov_pop_flashback_tomeverrettscott_190118_722889237.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media12.s-nbcnews.com/j/MSNBC/Components/Video/201901/1920_1080_thatthingsyoudojpg.760;428;7;70;5.jpg</img_url>
+        <info>i'm the info text 3</info>
+    </message>
+    <message> <!--元素  即 对象 -->
+        <title>视频1</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/tdy_pop_klg_whoknew_190123_722943627.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media13.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_whoknew_190123.860;484;7;70;5.jpg</img_url>
+        <info>i'm the info text 1</info>
+    </message>
+    <message> <!--元素  即 对象 -->
+        <title>视频2</title>
+        <video_url>https://snappytvpoc-vh.akamaihd.net/i/media/video/NBC_News/286/995/15482576,79689_tdy_pop_klg_surprise_190123_6,80989_tdy_pop_klg_surprise_190123_5,80562_tdy_pop_klg_surprise_190123_4,78912_tdy_pop_klg_surprise_190123_3,79273_tdy_pop_klg_surprise_190123_2,80169_tdy_pop_klg_surprise_190123_1,.mp4.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201901/tdy_health_klg_burnout_190123_1920x1080.focal-320x160.jpg</img_url>
+        <info>i'm the info text 2</info>
+    </message>
+    <message>
+        <title>视频3</title>
+        <video_url>https://nbcnewsencoding-vh.akamaihd.net/i/nbcnews/video/2019/01/x_tdy_ov_pop_flashback_tomeverrettscott_190118_722889237.mp4,,.csmil/master.m3u8?__b__=1000</video_url>
+        <img_url>https://media12.s-nbcnews.com/j/MSNBC/Components/Video/201901/1920_1080_thatthingsyoudojpg.760;428;7;70;5.jpg</img_url>
+        <info>i'm the info text 3</info>
+    </message>
+
+</messages>
